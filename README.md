@@ -32,7 +32,7 @@ Use filters to focus on specific time periods, locations, or customer segments.
 
 Contributions to enhance the analysis or fix issues are welcome. Please follow the contributing guidelines.
 ## Screenshots
-
+![Screenshot (30)](https://github.com/Jayesh5959/Zomato__Sales_Analyis/assets/155629669/de721cee-8981-4120-8b92-030390c4e783)
 Include relevant screenshots showcasing the key features of your Power BI dashboard.
 
 ## Data Sources
