@@ -20,3 +20,20 @@ The analysis is based on Zomato data retrieved from the Zomato API. The dataset 
 
 # How to Use
 To utilize this Zomato Sales Analysis project:
+# 1. Open Power BI Dashboard:
+
+Open the zomato_sales_analysis.pbix file using Power BI Desktop.
+Refresh data connections to ensure the dashboard is up-to-date.
+# 2. Explore Insights:
+
+Interact with the dashboard to explore various insights.
+Use filters to focus on specific time periods, locations, or customer segments.
+# 3. Contribute:
+
+Contributions to enhance the analysis or fix issues are welcome. Please follow the contributing guidelines.
+# Screenshots
+
+Include relevant screenshots showcasing the key features of your Power BI dashboard.
+
+# Data Sources
+The primary data source is the Zomato API, providing comprehensive sales data for analysis. The data is processed and transformed for effective visualization in Power BI.
