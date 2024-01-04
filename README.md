@@ -1,9 +1,9 @@
-## Zomato_Sales_Analysis_PowerBI
+# Zomato_Sales_Analysis_PowerBI
 
-## Overview
+# Overview
 This GitHub repository hosts a comprehensive Zomato Sales Analysis project implemented using Power BI. The project aims to provide actionable insights into Zomato sales data, enabling businesses and stakeholders to make informed decisions. Leveraging the powerful features of Power BI, this analysis covers a range of metrics including sales trends, customer preferences, and geographical patterns.
 
-## Key Features
+# Key Features
 Interactive Dashboard: Explore the Zomato sales data through an interactive Power BI dashboard. The user-friendly interface allows for dynamic filtering, making it easy to drill down into specific aspects of the data.
 
 # Sales Trends:
