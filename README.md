@@ -36,4 +36,4 @@ Contributions to enhance the analysis or fix issues are welcome. Please follow t
 Include relevant screenshots showcasing the key features of your Power BI dashboard.
 
 ## Data Sources
-The primary data source is the Zomato API, providing comprehensive sales data for analysis. The data is processed and transformed for effective visualization in Power BI.
+The primary data source is the KAGGLE, providing comprehensive sales data for analysis. The data is processed and transformed for effective visualization in Power BI.
